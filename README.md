@@ -22,3 +22,6 @@ uvicorn sample.main:app --reload
 
 ## 動作確認
 http://localhost:8000/ にアクセスする
+
+## Open API
+http://localhost:8000/docs
